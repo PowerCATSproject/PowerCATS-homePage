@@ -7,8 +7,8 @@
 }
 
 :root {
-    --hue: 170;
-    --primary-color: hsl(var(--hue), 100%, 26%);
+    --hue: 32;
+    --primary-color: hsl(var(--hue), 100%, 55%); /*#FF941A*/
     --headline: hsl(210, 11%, 15%);
     --paragraph: hsl(210, 9%, 31%);
     --brand-beige: hsl(39, 100%, 97%);
@@ -130,7 +130,7 @@ section .content p {
 }
 
 
-/* ====custome colors===== */
+/* ====custom colors===== */
 
 #services .card circle {
     fill: var(--brand-light);
