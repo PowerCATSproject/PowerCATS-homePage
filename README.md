@@ -1,8 +1,8 @@
 # PowerCATS-homePage
 
-CulturalCare is a responsive Webpage to show cultural events to users. This project is in the development phase.
+PowerCATS is a responsive Webpage to showcase the PowerCATS project. This project is in the development phase.
 
-Click [here](https://...) to see the project on-line.
+Click [here](https://powercatsproject.github.io/PowerCATS-homePage) to see the project on-line.
 
 ## Installation
 
